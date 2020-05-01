@@ -1,0 +1,83 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 10
+    },
+    {
+      "id": 2,
+      "amount": 10
+    },
+    {
+      "id": 3,
+      "amount": 10
+    },
+    {
+      "id": 4,
+      "amount": 10
+    },
+    {
+      "id": 5,
+      "amount": 10
+    },
+    {
+      "id": 6,
+      "amount": 10
+    },
+    {
+      "id": 7,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Dois Sabores - Escolhe Depois",
+      "description": "a depender da escolha.",
+      "price": 35.0,
+      "image": "https://lh3.googleusercontent.com/ig1kIyZn4s7DXSKDTEyyG088dxJMC7uTG-G4Gl3_rY0o8efvoj4nJKlIHx5eoRdAnAoumQmz3bOTkaB4JOXfPTDBpx0TkSOob68UoaFU3f2GFwl47gbF5GiUq7dQ9ZdehN1z3W2fohncx0PphKhdBX6cP16BCrGFbUecIL0A--EWNYZuqi3sm8sn-08h0fsiUN0tztdJ4YTRZHdFj-VtcQno4ketw8L0gJUA8FSJ5s0pYqChf6iWbH2-H0pFAHyOvDJ95iDqvvrk8BTa0RRstVOP5oKbNnyHaQ0eYN2PX-leI5QZXdcZUS9VdWDm2UBtgAYIL-aofb2WoAcVRrIbERfouyikPw6EBKKQbmE_nJ4Hfr8n7uBS-HxPh-KJsN1YtcQtUp-iV9-abrICT7XmFMbhqLAh6oGPBEQzyO5z4sz-vI1eZ5bk3-LOe_AehuySc78l0b7h5mPavELSBLYyh7LulJHMCHj8GXamd1iwt2ndqQGWE-2IgVKRbUJy26l6y2LkVyuIjCTB0vVMKhmMAsS_N_Q2Wo04xbi6dH8hrVG6PkjnRuU9MUKA1A-oeRLRgrFTn2l6cH2dVyhU_7SSinj3DQfWE9t5BRLgkWNvNn68vqlQUy4BC8vClH7xnrMB8aWvxARCvOIxkUWp3gyuhpay8knAqTCF_2PrRijQ5Pyj5XCSTk7HuyivblvRQw=w1156-h868-no"
+    },
+    {
+      "id": 2,
+      "title": "Lord Suprema Camarão",
+      "description": "Massa de pão de queijo, molho vermelho, queijo mussarela, tomate, cebola, pimentão, filé de camarão, salsinha, azeitona.",
+      "price": 35.0,
+      "image": "https://lh3.googleusercontent.com/cbbSk367ssYfrRrr45OWsjFuhl1T-Z3N2aiULkFJ7DIJBhENySgY09EZQiQpb8tbAMda1VLxLobRfmI1WwxyIoB9N9QtzHvMT2fqw-HNoq6DSxJACu12nd1-LyL6puTODs1l2AgeQxEwIXgSjOKn9b2zBnMlp4L0qJ6YqdFTgTrJb_G-glpfjpKwiqCsr-hHGSeRnmgQChcW5T9qLMlJ8SSZ7B054absIMhNRCsamGJwjIW2SgKqPd3QKguaV-373qwylCmkVtBvoWdchUQgXXGjRQFWeUbxIF2gPwgmhSUJow_EJboCu6tqutcEtW9ppcoLjssdOblhf5dLruibdVMRQDVc7alrT_pfp8wMIR3vIzQ96dmX3SJ1g5jQTzHnLP5GjQuqtnyEbjiwyOF0FxJaK-JMsNpi_Es4af3dEp2hoGVEz2djqc44s7c2efd-D_qN7mDTsh58WCFske-mjx7mF89Jyp2qrcVPB-vP0KHL_R_ozhKFLahA3yfO5mi28M_KqFEgI6BOP5ENsRBbInrEr2E6_DfIaECRFVvRztK_MRdv8ZmoOo0R0BKMgenvRubtE_6fjBzAbUm420P4XpL-njLvcDZWAsttr4g_5UcFQi5jlb2WBraTgn7qvdcEX8qQYsIaCj3NjeYUzWvsjZv5t7eSYDTou7iMHNKXUCpoxHTXEL2g0AL1AzSg_XVVUG3z5PHTzQAwUAAo2DQ_Iq_o1QNFLLp9cE6UL4_Kr-e9nBHTR6AEumQ=w905-h943-no"
+    },
+    {
+      "id": 3,
+      "title": "Lord Suprema Calabresa",
+      "description": "Massa de pão de queijo, molho vermelho, queijo mussarela, calabresa, cebola, azeitona.",
+      "price": 30.0,
+      "image": "https://lh3.googleusercontent.com/ODVzjjTdwwtbNJKorW-vr4ENUCsuKiEeKd066spbADIH1CTqfalsnDSFqskkSkHqQbI0E6-76Vh6FNR9Esq04Sr_i73Js5j9xqd5E-eQ5dW7Fa9TtNEZGLyElvEi3k72-tbtuuRL43wCOEbK-ECJZ_s30Wbri5VA9abnPIY4pK7WsB6Tl9-Z3wlVgvAD5fGArECJxlU0r0raEomn0ZBcZRlTOtDBEDXr36MM5v7pJEuqrVdfYaUlmDkE7f9y4_Vz9VZxd2JM_yLw_U3wpNkPn5RhNF2dwBpBLmKiZvkck3_-oTfBJW4TSQlzKjYDwektRYCXeSLgo52f27sSVwZEAx6iIfQjSW7p98CNHKPtQFejr2jxifzVJgrnG-mmESStHh8VvSPMm6MkNCGrL_7BqVxZN5y29KmKot7PeOqXNOf_wgMFdFNTxzFy4jdQzSf5VUYnaxqeoUYkGLFNOMIENJ350t5I_XAG0s8yvjAhHcFUlWW-KBzpFqCwhjQXUeNPGyxxyN0J1rbXVSK0I1sGybvS0b1OUq16HyIImloHR1UjqiEHUXt2uK7PXzHjB9cP2MUlJ4gLfVBlhDKxl7JfcJV-fZVoZFO46xlJcl04f608CWIRlvfwvgjCFR1JWjPyZuTIPmh6ilRRl0eMaHJ0V7ONOJxqO7TuUJNxaP5GLqBibfsw4gG87DZDFRva2eErpO9Cz1gbRy4ZWTaZrFc0nV02BGSSTNoFcSKAKB98r05mMMfhp4jcweA=w960-h828-no"
+    },
+    {
+      "id": 4,
+      "title": "Lord Suprema Nordestina",
+      "description": "Massa de pão de queijo, molho vermelho, queijo mussarela, carne de sol, queijo de coalho, cebola, orégano.",
+      "price": 30.0,
+      "image": "https://lh3.googleusercontent.com/RaMuwylrSB6r_MiSFHWm9XQEBPv6y8zrdo4j8owDKd37azvqUnKWrGuZMOuCQ4Fv4316fs4YBu6QDzgc4Ly1wQpRhP5LQOxmzpaoLHeQz3WXmpuk2pwLAJMLAGsr23-3FuZg4AiU9qd8_MxPsHzKSbci7p34M-CkMJdKdgsxW1s0-P7JqiTMumbko-jcsVBv_D75iHEBipo1AdCKf2t-Rnhj3FDCftg882bYf7B3mWEFtHfi7Tfn5S4ApEuttOmso7UKp0PwLQv54RX_w60miPKhJZIHm5Wx_wmQz_rWSCyYx9E1ZyVi7zBgJ38fY3r7OgeiJaU-NXmUNrznbtsfCh62CQ7N1_iL9H6bxwnVB_YbE-AMLhubyG2fyD-X032Arl2grHxCiPdAdRqYyLLHt4gkLugR7t329sUdqMywK7SPbqlPTNKHylK1HkI2p2X_V1PhNtXowQ8VGu1yUOlmSoei1VgG4NLB2Yi80lmx1DQ1_d-jQgH7VAhEdI-AQu8JrJwCAVvx7PgjUTnoPIO7qlQGamRKETqQeBRregIl-mTUzXxVMnq23XheE6VPQooEy8BM2sYFgLl3G9BXGJKA4T2p8wklO1hz__py7jNDSKxET64aSG05dEX8LQZe8-dU8c2noRcH0xInQFIxyBKiIAN59kaEGyrL-8nZWWvmYuXexNlRAV48R406AhvCbVaWu0DDR4yV1Qh6PeapodC0xyyL-tb9CUO7C3y_44twXsbJGgxMAhqhz6c=w845-h943-no"
+    },
+    {
+      "id": 5,
+      "title": "Lord Suprema Frango com Catupiry",
+      "description": "Massa de pão de queijo, molho vermelho, queijo mussarela, filé de frango desfiado, catupiry, orégano.",
+      "price": 30.0,
+      "image": "https://lh3.googleusercontent.com/M8VlIf-idlX9CP8H2AuzWQbEDChAmY73E6gzi-2L419OygQtCZeDtIRMhZcN5AQrJgjnLF9BfJUb3etjFvV8MFfQMQU5Zr9VR7HwBBKocmutAwjfFW2k9Zzc8dek51soO0v_qjg4PkFv8Eusp-MFE2vPsG0SDK0R-l_rd31uIY6uf_Y-04vHhp3Ore2lrNpgeL9yW1GuyATJXhFqFag9d5J3_GLhhLVLXhEOnLqgQXK5uvO-8muY1J9CwyDdjvMXtGhWQRTqYpbIAVwco878hr-m3VNOu9riCH3814YqZwGT16hdjlbjnEr0rHphwScgIn2Gg5TyJVo_dn65raGUOU1Qju5cKrrrDPh7Loh-pobuv9uBn43xQmItUNT_cLsIdQBU4NXbYMl3Wm0Lx_YoFoZdKgsyU0PrPPxVr-7WV25mE_kxVtzi2C1WtJ6puRAuQrfdEvyF9t-bEiHOw2CM6Dj_ExhfPy5V7ICJgVUU8HdQ5cWfDqDZj7oNzw6xtM2H5GqKxkU-9t0abafoiWq58PU3dGZ2bsgbK7c78r_H5z6S7lIL7AlKj_JpN-cr5yA7zzFjATATUfvRE_Wj6ZSLaOH2lTsyp0ud0wS0sELZwzLz7iYoDd6WbEW_18imSObT0Q14RgipPWneZmD7YfoJWDG9moZzV_cJR_MsH5conXrpxaPQawE2e_tWlTY26ENDu2VhYjJK36fc0fsyIWP2spvfPmM16qjKLYXmBbCddFJNOfr2CPkmZ6U=w898-h802-no"
+    },
+    {
+      "id": 6,
+      "title": "Lord Suprema Portuguesa",
+      "description": "Massa de pão de queijo, molho vermelho, queijo mussarela, presunto, tomate, pimentão, cebola, ovo cozido, orégano.",
+      "price": 30.0,
+      "image": "https://lh3.googleusercontent.com/SYTV8wa7DSs_NL3bgtltDEF8xuLVk7nVH0_xboZkNr1kfLObB3GAdQk9audD1Xb-mspfWIXGGoN9pVyj_O8MthPpKvcHgtLMdk3cBx9vBD0AiG_oMq3zO6ELEfXUnLp5yMY52F-RhQuAeegEw8U_nDF96dbrO11lRFCzwU-DifPi9Bk7wk5ovPmUaPsuBoxaasxX8NUtnmtquqNCU_bMQWTG-0I7AnkloDftzo5XSkY8N3EUiltmRDFwR_Dzyt6HI3REJVJx1qncMZGZhmyfa-0sZMyKbJJmaytP1aOGW5tQX31vuxc_QceDFmnqVqIiaa0iPgxkO6XiCxxl2IbGxLkbzk6TCeZ9GUebnVDhVfk-kl_t8KQ_bavxLBHWKknRxaLZvAMlFABmuUFeFF181pqSX91KdCg70C61Dzqp7l76_TvU2u438ttFmw8oMf0RYcnMrs_PNFq3ultuY_6nQ6VstqkvU_jw7Ne4pqJDcWPLTaMfve0RgJArvXYrKs4LYLxAdoLlr7bzASdklGSL_xPR3L8tsacLqUW3N4Fxsg4QiBkm7fnrJrY8dW51MGA4s4xei1Fx5nlllkXj08DHAZM51SQOdoJgou5JTWbYHu-PpGwdNQlntCm_DHwxcU3rHuNV9eA3BIvSTFSishtpezKSFkc4cqnkir-vQ57lIKrPzMAtihWYaoYIuO02TNiAmOhdGEYBs16UnJRVbv9Kfag5_bF_YcT2KSLzAuVUoyc7KR0E54DlH6g=w835-h943-no"
+    },
+    {
+      "id": 7,
+      "title": "Lord Suprema Marguerita",
+      "description": "Massa de pão de queijo, molho vermelho, queijo mussarela, tomate, manjericão.",
+      "price": 30.0,
+      "image": "https://lh3.googleusercontent.com/SYTV8wa7DSs_NL3bgtltDEF8xuLVk7nVH0_xboZkNr1kfLObB3GAdQk9audD1Xb-mspfWIXGGoN9pVyj_O8MthPpKvcHgtLMdk3cBx9vBD0AiG_oMq3zO6ELEfXUnLp5yMY52F-RhQuAeegEw8U_nDF96dbrO11lRFCzwU-DifPi9Bk7wk5ovPmUaPsuBoxaasxX8NUtnmtquqNCU_bMQWTG-0I7AnkloDftzo5XSkY8N3EUiltmRDFwR_Dzyt6HI3REJVJx1qncMZGZhmyfa-0sZMyKbJJmaytP1aOGW5tQX31vuxc_QceDFmnqVqIiaa0iPgxkO6XiCxxl2IbGxLkbzk6TCeZ9GUebnVDhVfk-kl_t8KQ_bavxLBHWKknRxaLZvAMlFABmuUFeFF181pqSX91KdCg70C61Dzqp7l76_TvU2u438ttFmw8oMf0RYcnMrs_PNFq3ultuY_6nQ6VstqkvU_jw7Ne4pqJDcWPLTaMfve0RgJArvXYrKs4LYLxAdoLlr7bzASdklGSL_xPR3L8tsacLqUW3N4Fxsg4QiBkm7fnrJrY8dW51MGA4s4xei1Fx5nlllkXj08DHAZM51SQOdoJgou5JTWbYHu-PpGwdNQlntCm_DHwxcU3rHuNV9eA3BIvSTFSishtpezKSFkc4cqnkir-vQ57lIKrPzMAtihWYaoYIuO02TNiAmOhdGEYBs16UnJRVbv9Kfag5_bF_YcT2KSLzAuVUoyc7KR0E54DlH6g=w835-h943-no"
+    }
+  ]
+}
